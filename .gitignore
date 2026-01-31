@@ -1,0 +1,14 @@
+
+build/
+cmake-build-debug/
+.cache/
+
+
+.DS_Store
+
+
+.vscode/
+
+
+*.o
+pongGame
