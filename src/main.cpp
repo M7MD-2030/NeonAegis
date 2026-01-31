@@ -9,11 +9,7 @@ int main() {
     SetTargetFPS(60);
 
     
-    while (!WindowShouldClose()) {
-        
-        
-
-        
+    while (!WindowShouldClose()) {        
         BeginDrawing();
             ClearBackground(RAYWHITE);
             DrawFPS(10, 10);
